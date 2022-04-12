@@ -1,0 +1,23 @@
+{
+  "name": "nft-handson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostson1120/NFT-Handson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostson1120/NFT-Handson/issues"
+  },
+  "homepage": "https://github.com/ghostson1120/NFT-Handson#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "hardhat": "^2.9.3"
+  }
+}
